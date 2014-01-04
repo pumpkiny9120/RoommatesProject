@@ -1,0 +1,8 @@
+com.oose2013.group7.roommates.server
+com.oose2013.group7.roommates.server.database
+com.oose2013.group7.roommates.server.event
+com.oose2013.group7.roommates.server.event.contact
+com.oose2013.group7.roommates.server.event.describe
+com.oose2013.group7.roommates.server.games.contact
+com.oose2013.group7.roommates.server.games.describe
+com.oose2013.group7.roommates.server.network
